@@ -1,0 +1,17 @@
+{
+    "CNN_teacher_0.pth": 91.63,
+    "shallowdensenet_teacher_0.pth": 89.44,
+    "teacher_0.pth": 88.27,
+    "CNN_teacher_1.pth": 92.02,
+    "shallowdensenet_teacher_1.pth": 89.14,
+    "teacher_1.pth": 88.23,
+    "CNN_teacher_2.pth": 92.02,
+    "shallowdensenet_teacher_2.pth": 88.89,
+    "teacher_2.pth": 87.95,
+    "CNN_teacher_3.pth": 91.93,
+    "shallowdensenet_teacher_3.pth": 89.51,
+    "teacher_3.pth": 88.32,
+    "CNN_teacher_4.pth": 91.87,
+    "shallowdensenet_teacher_4.pth": 89.32,
+    "teacher_4.pth": 88.13
+}
