@@ -1,0 +1,9 @@
+glob2
+json
+matplotlib
+numpy
+requests
+torch
+torchvision
+IPython
+scikit-learn
