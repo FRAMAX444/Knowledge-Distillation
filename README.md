@@ -4,7 +4,7 @@
 This repository contains the implementation of a knowledge distillation framework that transfers knowledge from simpler, non-neural models to complex neural models. Additionally, the project explores multi-teacher and self-distillation techniques to further enhance model performance and efficiency.
 
 ## 🤖 What is Knowledge Distillation?
-Knowledge distillation is a technique where a "student" model is trained to replicate the behavior of a "teacher" model. The teacher model is typically a larger or more complex model, but in this project, we also explore scenarios where the teacher models are non-neural models (e.g., decision trees, SVMs). The goal is to leverage the simplicity and interpretability of non-neural models to guide the training of more complex neural networks.
+Knowledge distillation is a technique where a "student" model is trained to replicate the behavior of a "teacher" model. The teacher model is typically a larger or more complex model, but in this project, we also explore scenarios where the teacher models are non-neural models. The goal is to leverage the simplicity and interpretability of non-neural models to guide the training of more complex neural networks.
 
 ## 🌟 Project Features
 🔄 **Non-Neural to Neural Knowledge Distillation:** Transfer knowledge from non-neural models (e.g., Decision Trees, Logistic Regression) to neural networks.
