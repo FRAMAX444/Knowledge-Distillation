@@ -1,7 +1,7 @@
 ![F0E3307D-183C-480E-A259-AA972AEA5EA6](https://github.com/user-attachments/assets/14cab13e-2477-471a-8735-61f213ad352d)
 # Knowledge Distillation🧠👨🏻‍🏫
 ## Overview
-This repository contains the implementation of a knowledge distillation framework that transfers knowledge from simpler, non-neural models to complex neural models. Additionally, the project explores multi-teacher and self-distillation techniques to further enhance model performance and efficiency.
+This repository contains the implementation of a knowledge distillation framework that transfers knowledge from simpler, not always neural, models to complex neural models. Additionally, the project explores multi-teacher and self-distillation techniques to further enhance model performance and efficiency.
 
 ## 🤖 What is Knowledge Distillation?
 Knowledge distillation is a technique where a "student" model is trained to replicate the behavior of a "teacher" model. The teacher model is typically a larger or more complex model, but in this project, we also explore scenarios where the teacher models are non-neural models. The goal is to leverage the simplicity and interpretability of non-neural models to guide the training of more complex neural networks.
