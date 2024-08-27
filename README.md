@@ -8,8 +8,11 @@ Knowledge distillation is a technique where a "student" model is trained to repl
 
 ## 🌟 Project Features
 🔄 **Non-Neural to Neural Knowledge Distillation:** Transfer knowledge from non-neural models (e.g., Decision Trees, SVMs) to neural networks.
+
 👩‍🏫 **Multi-Teacher Distillation:** Utilize multiple teacher models to enhance the student model's learning process.
+
 🔁 **Self-Distillation:** Implement self-distillation where the student model itself serves as a teacher for its subsequent iterations.
+
 📊 **Comprehensive Evaluation:** Evaluate the effectiveness of the distillation process across various datasets and model architectures.
 
 ## 🚀 The project
