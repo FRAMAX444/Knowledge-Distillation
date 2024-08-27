@@ -16,7 +16,7 @@ Knowledge distillation is a technique where a "student" model is trained to repl
 📊 **Comprehensive Evaluation:** Evaluate the effectiveness of the distillation process across various datasets and model architectures.
 
 ## 🚀 The project
-📓 Have fun reading my notebook, with the markdowns to acconpany your travel in the realm of Knowledge distillation
+📓 Have fun reading my notebook, with the markdowns to accompany your travel in the realm of Knowledge distillation
 
 ## 🤝 Contributing
 I welcome contributions to this project! If you have suggestions or find bugs, please contact me on my email. You can find it in my bio
